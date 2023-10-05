@@ -10,3 +10,6 @@
 [submodule "DataGatheringUE4"]
 	path = DataGatheringUE4
 	url = https://github.com/joigalcar3/DataGatheringUE4.git
+[submodule "Airlib_FDD"]
+	path = Airlib_FDD
+	url = https://github.com/joigalcar3/Airlib_FDD.git
