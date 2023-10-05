@@ -2,7 +2,7 @@
 
 ![record screenshot](Docs/frontpage.PNG)
 
-This repository is a centralised hub for all the repositories that support the work discussed in the 
+This repository is a centralised hub for all the repositories that contain the source code of the
 following literature:
 
 1. Master thesis: "From Data to Prediction: Vision-Based UAV Fault Detection and Diagnosis".
