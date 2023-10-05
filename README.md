@@ -9,8 +9,8 @@ following literature:
 2. Paper 1: "Blade Element Theory Model for UAV Blade Damage Simulation".
 3. Paper 2: "Unreal Success: Vision-Based UAV Fault Detection and Diagnosis Frame".
 
-The main goal of this work was the development of a knowledge-based model capable of performing 
-UAV actuator fault detection and diagnosis. For that purpose, a three stage project was carried out. 
+The main goal of this work was the development of a **knowledge-based model capable of performing 
+UAV actuator fault detection and diagnosis**. For that purpose, a three stage project was carried out. 
 First, a more accurate blade damage model was developed than what is available in literature by 
 considering the aerodynamic forces and moments. Second, a simulator was built that allows the injection 
 of failures during the flight for the collection of data which can be used for the third and last step, 
