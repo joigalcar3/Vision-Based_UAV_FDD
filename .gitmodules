@@ -1,3 +1,6 @@
 [submodule "Blade_damage"]
 	path = Blade_damage
 	url = https://github.com/joigalcar3/Blade_damage.git
+[submodule "Blade_damage_validation"]
+	path = Blade_damage_validation
+	url = https://github.com/joigalcar3/Blade_damage_validation.git
