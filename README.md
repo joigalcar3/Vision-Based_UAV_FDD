@@ -63,7 +63,7 @@ instead of cloning this repository with the others as submodules.
 
 ## Contact
 Hope you enjoy the code!! For any questions, comments or suggestions, 
-please reach out to me at [jialvear@hotmail.com](jialvear@hotmail.com).
+please reach out to me at [jose.dealvearcardenas@sjsu.edu](jose.dealvearcardenas@sjsu.edu). Also, please consider citing our research work below when using this repository (the papers will be published in January 2024 and the BibTex references will be updated around the 1st February 2024, including the DOI).
 
     @inproceedings{dealvear2024BET,
       title={Blade Element Theory Model for UAV Blade Damage Simulation},
